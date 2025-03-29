@@ -1,0 +1,5 @@
+Frame_Number,Timestamp,Class,Confidence
+211,7.28,smoke,0.55
+211,7.28,fire,0.26
+212,7.31,smoke,0.38
+324,11.17,fire,0.27
